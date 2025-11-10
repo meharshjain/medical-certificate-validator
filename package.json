@@ -1,6 +1,6 @@
 {
   "name": "medical-certificate-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js library to validate medical documents using Google Gemini AI.",
   "main": "index.js",
   "type": "commonjs",
